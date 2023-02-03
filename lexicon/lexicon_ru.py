@@ -12,3 +12,9 @@ LEXICON_RU: dict[str, str] = {'/start': '<b>Привет!</b>\nДавай с т�
                               'user_won': 'Ты победил! Поздравляю!\n\nДавай сыграем еще?',
                               'nobody_won': 'Ничья!\n\nПродолжим?',
                               'bot_choice': 'Мой выбор'}
+
+LEXICON_COMMANDS_RU: dict[str, str] = {
+                '/start': 'Запуск бота',
+                '/help': 'Помощь по боту',
+                '/command_3': 'command_3 desription',
+                '/command_4': 'command_4 desription'}
